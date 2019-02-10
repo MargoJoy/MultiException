@@ -1,0 +1,17 @@
+{
+  "name": "MargaritaRay/MultiException",
+  "description": "Multi exception package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Margarita Ray",
+      "email": "xxmargo-rayxx@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
